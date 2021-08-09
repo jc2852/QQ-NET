@@ -3,7 +3,7 @@
 This code solves the QQ optimization from input QSM and mGRE data with 8 echoes using a deep neural network (NET). 
 For details see: ***
 
-Download model, code, and data: https://wcm.box.com/s/v1thrs0ezuuhb13cdho1xaoiu3bd9h5j
+Download model, code, and data: ***
 
 To run the code, download all the files into a folder, make sure all the libraries listed in codes/basics/unet3d_b_limt_m.py exist, and run /codes/QQ_NET_test_simul.ipynb.
 
